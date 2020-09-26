@@ -12,7 +12,7 @@ body {
   background-image: url('./assets/e1210eacbd46ee7fc6875d8699e9033b.jpg');
   background-size: cover;
   background-position: bottom;
-  transition: .4 ease-out;
+  transition: .4s ease-out;
 }
 
 .app.warm {
